@@ -1,0 +1,31 @@
+CATEGORIES
+
+8051 Projects
+Advance Projects
+Android Projects
+Arduino/AVR Projects
+Artificial Intelligence Projects
+Bio-medical projects
+Bluetooth Based Projects
+Brain Waves Projects
+Communication Projects
+Gesture Control Projects
+GPS Projects
+GSM Projects
+Home Automation Projects
+IR and Ultrasonic Projects
+LiFi Based Projects
+Quadcopter Projects
+Radio frequency Projects
+Raspberry Pi Projects
+Robotic Projects
+Security Based Projects
+Sensor Based Projects
+Simple Electronics Projects
+Solar Based Projects
+Starter Kits
+Touch Screen Projects
+Voice Control Projects
+WI-FI Based Projects
+Wireless Power Transfer
+Without Micro-controller Projects
